@@ -1,0 +1,77 @@
+body{
+    font-family:tahoma;
+}
+header{
+    width: auto;
+    height: 50px;
+    background-color: whitesmoke;
+}
+.extra-bar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-top: -55px;
+    justify-content: center;
+    
+}
+.extra a{
+    margin-right: 20px;
+    transition: 3s;
+}
+sub{
+    font-size: 10px;
+    margin-left: -80px;
+}
+h1{
+    color:rgba(0, 255, 0, 0.75) ;
+}
+sup,sub{
+    color: crimson;
+}
+.extra a:hover{
+    color: crimson;
+    text-decoration: underline double;
+    cursor: pointer;
+    transition:1s;
+    
+   
+}
+img{
+    width: 1350px;
+    margin-right: -50px;
+}
+.box{
+    border: 10px solid green ;
+    width: auto;
+    height: auto;
+    border-radius: 30px;
+    padding: 50px;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+tr th{
+    padding: 20px;
+}
+tr td{
+    padding: 20px;
+}
+video{
+    margin-left: 300px;
+   
+}
+#two{
+    width: 450px;
+    height: 750px;
+}
+.img-bar{
+    margin-left: 850px;
+    margin-top: -1080px;
+}
+
+#color ,h2{
+    color: crimson;
+}
+
